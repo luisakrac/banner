@@ -1,0 +1,40 @@
+##
+## A mysterious turtle...
+##
+$the_cow = <<EOC;
+    $thoughts
+ .                                     '##:::::'##:'########:'##::::::::'######:::'#######::'##::::'##:'########:   
+                                        ##:'##: ##: ##.....:: ##:::::::'##... ##:'##.... ##: ###::'###: ##.....::
+                                        ##: ##: ##: ##::::::: ##::::::: ##:::..:: ##:::: ##: ####'####: ##:::::::
+                                        ##: ##: ##: ######::: ##::::::: ##::::::: ##:::: ##: ## ### ##: ######:::
+                                        ##: ##: ##: ##...:::: ##::::::: ##::::::: ##:::: ##: ##. #: ##: ##...::::
+                                        ##: ##: ##: ##::::::: ##::::::: ##::: ##: ##:::: ##: ##:.:: ##: ##:::::::
+.                                        ###. ###:: ########: ########:. ######::. #######:: ##:::: ##: ########:
+                                       :...::...:::........::........:::......::::.......:::..:::::..::........::
+    
+``           ```             `.``        `         ``            ```          ```            `..`          ..`
+       :yysso+:.   -ymNmhs/`:dNNNmh+.   .smNMNNNdhs/.   .odNMNMNmhs:`/dNMNmy+. `+dNNms:/+syhdmNNNMNNy.`-/shdNNMNNmy/`   -odNMNNNmy+.    /mMMNy`
+      oMMMm::yMs  `NMs-:+yNMMMs.-/smMy./NMs-...-/oyMN/-hMdo-```.:ohNNMN/.-/smMymMd:.+NMMdyo+/:-....sMNNNmyo/:...-+dMm:/dMmo:```-/smMd- -MMMMMMm`
+     .NMMMMm`dN.  sMm`    `NMh     .NMmMN:         mMNMd:          /MMy     .MMd:   :MMM/          .MMh.           +MMMd:         `oMM-/MMMMMMMsoyd/
+     +MMMMNyhM/  .NM+     +MN.     sMMMd.         .MMMs`    `++    hMMh     yh:     dMMm.    :++osymMN/    `:/+.   +MMM.    `:`     NMooMMMMMMMMMMMN.
+    `hMMMMNNM+   sMm`    .NMo     :MMMy`    :     /MMo     .hMy   :MMMo    .:     `+MMh.    /MMMMmmMm-     hMNs`  -MMMM-   .dy     :MM:yMMMMMMMMMMMMy
+   -hMMMMMMMN/` .NM/     sdh`    `mMMs     om    `dMN     .mMNNo-.dMMN.         `:hMMy      ://oNMMM/     /y/.    oMMMh    hM/    `mMy.yMd//hMMMMMMMM.
+ :ymhhMMMMMMMMh yMd              yMN+     omh    sMMN    `dMy:ymNNMMm/        `:hMMMN.          +MMd            ./dMMh`    .sds/--hMd-dN+`  /MMMMMMms`
+.mM/ `shNMMMMh.-MM:             +MM/      `     `NMMN    oMMyyhddNMs`        .dMNoMMo     ..-:/+hMM:         .+hmMMMMNs-`    `:ymMMh`.ymo.`:yMMMMMM:
+ .yd/ `.mMMMN- dMh     oyh`    +MMs             -MMMN    mMMdo++dMMy          oNNdMm`    -hdddmMMMd     `    .yNMMmsooydh+.     .sMm.  .+hhNMMMMMMM:
+   -oysmMMMM+ +MN.    /MMh    +MMm`   -/osyhs   .MMMN    yy:   `mMMd    o/     :mMM+     ``   `hMM/    :d/`    :NMm+`  `:os:     -MM:    `hMMMMMMMM/
+    /MMMMMMN. mMy    `mMM/    NMM+   :NMhsmMd    yMMN          /MMm.   -NMs`    -NMy`         `sMM-   `mMMh:`   :dMMs`         `:mMy`    +MMMMMMMMM-
+    oMMMMMMMd+sNNho/-sMNMmy+::mMMy/:+NN+  +MNo/:-:mMMh+:-...-/yNNMmo/--hMNMmo//+yNNMmo:-:+oyhdmNNMh+:-yMm+dNdo//+hMNNds/:----/odNm+`     omMMMMMMMy`
+    -MMMNdMMMMmy+ohdddh:-+yddddy+ydddy:    :ohdddddh+shdmmmmmdy+.:ohdmmmh-:shddhs/.:sddddhys+/:--+yhdddy- `:ohddhs/.-+yddmmmmdho:`        :MMMMMMs`
+    -MMMs`-yNMMMd: ```      ```   ```         `````    `.....`      `..`     ``      ````           ```       ``       ``...``             dMMMMs`
+    .MMM:   .+hNMMy`                                                                                                                       +MMMd`
+     NMN`      .dMN`                                                                                                                       :MMMm
+     NMh       `MMd                                                                                                                        -MMMM`
+    `NMy       `NMh                                                                                                                        .MMMd
+     dMd        yMs                                                                                                                         hMMm
+     -NN        -M+                                                                                                                         -MmM/
+      /M:       sM+                                                                                                                          hmMs
+       mm/.     -No                                                                                                                          :M:
+       //::-     o+                                                                                                                          /My
+
+EOC

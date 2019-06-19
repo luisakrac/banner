@@ -1,0 +1,53 @@
+##
+## From the canonical koala collection
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+
+
+
+
+       '##:::::'##:'########:'##::::::::'######:::'#######::'##::::'##:'########:
+        ##:'##: ##: ##.....:: ##:::::::'##... ##:'##.... ##: ###::'###: ##.....::
+        ##: ##: ##: ##::::::: ##::::::: ##:::..:: ##:::: ##: ####'####: ##:::::::
+        ##: ##: ##: ######::: ##::::::: ##::::::: ##:::: ##: ## ### ##: ######:::
+        ##: ##: ##: ##...:::: ##::::::: ##::::::: ##:::: ##: ##. #: ##: ##...::::
+        ##: ##: ##: ##::::::: ##::::::: ##::: ##: ##:::: ##: ##:.:: ##: ##:::::::
+       . ###. ###:: ########: ########:. ######::. #######:: ##:::: ##: ########:  
+       :...::...:::........::........:::......::::.......:::..:::::..::........::
+                     /o+-                                                       
+                     /s+++:`                                                    
+                     :ss+++o:`                                                  
+                     -sso+++++/`                                                
+                     .ysso+++++o/` .+.  `      .-/+os.                          
+                     `ysssooo+osss/oyy++s+.:+syyyyyy-                           
+           `:.        ssssssssssssssysssssssyyyyyyy-``.`                        
+         -:/sso/:.    +sssssssoooo+++++++ooosssssyyssys.                        
+         .+sssso+++:.`/ssssso+++++++++++++++oosssssssyo++/+++++++++++++++o+`    
+          /ssssso++++osyysso++++++++++++++++++oosssssssso+++++++++++oosso:`     
+          .-osssssooosyssso+++++++++++++++++++ooossssssssoo++++ooosssso-`       
+             /ssssssssssso+++o++++++++++++++++oosssssssssoooosssssss+.          
+              /sssssssssssosos+++++++++++++++oosssssssssssssssssso/`            
+               /sysssssssss+:/s+++++++++++oossssssssssssssssssso-`              
+                +ysssssssss:::osoooooooossssssssssysssssssyss+.                 
+               `osssssyssss:-:+hssssssssssossssso+ysssssssh/.                   
+               /osssssyossso///+yssssssssossso+//+yssssssshoooo+++//:-..        
+               soosssss`/sssssssssssssssssos::://sssssssssysssssssssooyo.       
+              `yooosssy``:sssssssssssssys//:://+ssssssssssssssssssssssso/.      
+              `sooosyyy/`/-:/+ssssssssssssssssssssysssssssssssssssssoos`        
+               ssssyyyyy+/----+://+ossssssssysssyyyssssyyyssssyso+:.``.         
+              `ysssyhhhhhy+:-:/------:o:///:o::+yyyyyyyyhyss+/-.`               
+             .ydhyyyhhhhhhhyoo:------/:---.:/:syyyyyyhhho-`                     
+             oyhdyyhhdddddhhhhhyso//:o::::/yyhhhhhhhhhho                        
+      ``    .ysyyhhhddddddddddddddddhdhhhdhhhdhhhhddhdy.    `...`     `...`     
+     ohys+:hhddhyydmdhhddmhddmdhhddmdmhdddddmhmmmdddhhyhh/oyyyyyhy:`/yhysyhy/`  
+    /M:`-+Md``.yNdm/   `-mNmy-    .sMy  .hNy- sMh.`    .Nm/.`    /Nmh:`   `:ms  
+    dh   /M:  `dMm-     `NN/  `+/  yMs  `s-  .NN/  -yhhdN/  .ss. :NM-  ::   hd  
+   :M:  `dy   oMd.  +-  /M+   yNh-:MM:  `  `:dN:   /ohNM/   oo.  hMm. .N-  :N+  
+   yh    `   -Nh`  -s. `mM/  oN+ydNm+     :hmMs    ``-Mm`     `:sNMo`  :ossNs   
+  .N:  .+-  .mm`    `  -MM/  NNhsdMy      sNhN.  -syhNM+  `   +NMdsyy+.  `+M/   
+  oy   dM. `dM/ `osyd- .MM+  +-  yMy  +o`  +Mh      `dN`  yy-  :Nm/  -:   :N+   
+  sy/.+MN+--NN/.ym-:No-.yMy:.``-oNNo--mNh/:+NNs::/+symNo:+Nsdy//yNms/:-:+ym+    
+  `-oyy/-+sys/oyo.  -+sss+/oyhys+.-+syo.:+shhhyoo+/-.`-/oo:  -/+:``:+ooo+-      
+EOC

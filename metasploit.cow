@@ -1,0 +1,34 @@
+##
+## It's a Kosh Cow!
+##
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+      $thoughts
+
+               .;lxO0KXXXK0Oxl:.
+           ,o0WMMMMMMMMMMMMMMMMMMKd,
+        'xNMMMMMMMMMMMMMMMMMMMMMMMMMWx,
+      :KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:
+    .KMMMMMMMMMMMMMMMWNNNWMMMMMMMMMMMMMMMX,
+   lWMMMMMMMMMMMXd:..     ..;dKMMMMMMMMMMMMo
+  xMMMMMMMMMMWd.               .oNMMMMMMMMMMk
+ oMMMMMMMMMMx.                    dMMMMMMMMMMx
+.WMMMMMMMMM:                       :MMMMMMMMMM,
+xMMMMMMMMMo                         lMMMMMMMMMO
+NMMMMMMMMW                    ,cccccoMMMMMMMMMWlccccc;
+MMMMMMMMMX                     ;KMMMMMMMMMMMMMMMMMMX:
+NMMMMMMMMW.                      ;KMMMMMMMMMMMMMMX:
+xMMMMMMMMMd                        ,0MMMMMMMMMMK;
+.WMMMMMMMMMc                         'OMMMMMM0,
+ lMMMMMMMMMMk.                         .kMMO'
+  dMMMMMMMMMMWd'                         ..
+   cWMMMMMMMMMMMNxc'.                ##########
+    .0MMMMMMMMMMMMMMMMWc            #+#    #+#
+      ;0MMMMMMMMMMMMMMMo.          +:+
+        .dNMMMMMMMMMMMMo          +#++:++#+
+           'oOWMMMMMMMMo                +:+
+               .,cdkO0K;        :+:    :+:
+                                :::::::+:
+                      Metasploit
+EOC
